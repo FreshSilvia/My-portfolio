@@ -1,0 +1,43 @@
+@import '../Components/Footer/footer';
+@import '../Components/Navbar/navbar';
+@import '../Components/Hero/hero';
+@import '../Components/Projects/projects';
+@import '../Components/Form/form';
+
+body {
+    // max-height: 100vh;
+    // max-width: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(207, 207, 207);
+    justify-content: center;
+}
+
+
+.me{
+    text-align: center;
+    box-shadow: 0px 0px 15px rgb(46, 2, 189);
+    border-radius: 60px;
+}
+.info-text {
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.projects-header {
+    text-align: center;
+    margin: 25px;
+}
+
+@media screen and (min-width: 980px) {
+    .me {
+        font-size: 3rem;
+        margin-left: 1%;
+        margin-bottom: 5%;
+    }
+    .info-text {
+        font-size: 2rem;
+        margin-bottom: 5%;
+    }
+}
