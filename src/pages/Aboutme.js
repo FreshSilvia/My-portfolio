@@ -17,8 +17,9 @@ const Aboutme = () => {
                     <img src={Profilep} alt="professionalpic" className="image"></img>
                     <p className="info-text">
                         <h2>Hi, I'm Jordan</h2>
-                         We are group of friends who love the need for speed, and want share that same love of motorsports with the rest of the car community. Here at GarageInsomnia, motorsports is more than just a sport, it's an art and lifestyle. Our job here is to provide our customers with great quality stock and performance automotive racing parts. Here you will find some of the lowest prices on Nissan aftermarket parts and other performance auto parts that you can relay on to relieve your need for speed.We only carry dependable performance parts that allow you to take your car to the next level in your build.We can offer some advice, great customer service, and the convenience of being able to shop right from your home, the track, and anywhere else you feel to upgrade your car. 
+                        I'm a new and upcoming software developer that just graduated from the rigorous Road to Hire program. With also being a Road to Hire Fellow I am also a very big Car enthusiast and amature car drifter. I was recently an automotive technician at a dealership. I will bring my problem solving skills,determination, and communication skills into my new career path. I hope to one day become a full-stack developer, and I will continue to work to my best ability to make sure I keep building on current skills, to achieve my goal.
                     </p>
+                    <a href="https://drive.google.com/file/d/1LSwrkayU3TspuS238T_wkdURPNXU6RhM/view?usp=sharing" target="_blank" rel="noreferrer"><button className="resume">Resume</button></a>
                 </div>
             </div>
         </>

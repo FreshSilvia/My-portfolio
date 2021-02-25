@@ -7,7 +7,7 @@ function Project({item}) {
                 <h2 className="title">{item.name}</h2>
                 <img src={item.img} alt="Jordan's project's" className="image"></img>
                 <p className="descript">{item.description}</p>
-                <button className="btn">Visit Repo</button>
+                <a href={item.link} target="_blank" rel="noreferrer"><button className="btn">Visit Repo</button></a>
             </div>
         </div> 
     )

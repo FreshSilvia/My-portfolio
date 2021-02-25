@@ -63,7 +63,7 @@ function ContactForm() {
                         // style="height:200px"
                     />
                     <button className="form-input-btn" type="submit">
-                        Floor It!
+                        Submit
                     </button>
                 </div>
             </form>

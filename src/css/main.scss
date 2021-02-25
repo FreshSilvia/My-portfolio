@@ -37,6 +37,15 @@ body {
     margin: 25px;
 }
 
+.resume {
+    padding:10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgb(9, 163, 163);
+}
+
 @media screen and (min-width: 980px) {
     .me-container {
         display: flex;
