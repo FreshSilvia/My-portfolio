@@ -40,6 +40,7 @@
         display: grid;
         grid-template-columns: repeat(3,1fr);
         padding: 10px 10px;
+        margin: 10px 0px 10px 40px;
     }
     .projects-container {
         display: flex;
@@ -70,6 +71,9 @@
             border-radius: 20px;
             text-align: center;
             margin-left: auto;
+            &:hover{ 
+                color: rgb(43, 158, 152);
+            }
         }
     }
 }
