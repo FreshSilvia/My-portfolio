@@ -17,7 +17,7 @@
     },
     {
         "name": "TicTacToe Application",
-        "img": "https://lh3.googleusercontent.com/q0Ket2MffYHqs_BjQDhj4Nl11kPT9jNd6oo-9m2xekOxfN4oyj4XvnQsT75XedkLrMiK3b9nhPL4gcwmLu7X2s11HvfAeWd_x9tVkSpVdyJUkDhSObDbRXLo_Ss2cwhbHJY2z3yU41HUMl_0cOEg3SLMN7Sp2nFgzyphl0nInTN2LNAYWgAc-Ah5rwN42QcmMuBchn35VxGDWNHAUVT-xnhT71arDJWlOWLzYM53blnt4OtC2OJR1hVsIA8Xu7VG_Yoe1fS1FoVMJKflzLP6vslds0a2wWiSt5q2rdh9wXTLnzInA_yKBgLZWhRJfNyHWy71FXrZImfkTHxJwL60CmG7_XmDAdx9DmUZec0guF0sTUC7gGyIFumGaHKjae8j6qXmIdVJifIo8HFA-T0z0F27BYh-pX7fc0AEXB-mGtcGRFh4raKbWNooTexgbM1SZIT5P4n-V_g9WCrJnrzaT8jYuk10eSbdgycohkdLWIdKKJV526u2nE-eDwS440yCvKLdCb-owIjX3p5vTlnjjD7qGC8su5Ih0M79bAq0BS363AWCCKzVhcgd6GjH4QQFZFweiUoHBaVq8OmSkC86TRnghkk-Eaw88Vl4rEstpAXeVsN4udoUACXvXZJ2q7jFs8Ikrz8aobO1EcWyZXftsusDw7IFx-pkKwqhAgHRyxDJS2NZqa_Fmtr1AcY=w1298-h655-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3eIX-IzGQOgpo0j6FwnDuDwMbNIffMPrunOAfaIbaM2MJsua-Drc9gyyaF2aeDXk7pvyhsFqoXDLWGxR8op-iRigZMOqahfSlzTS8FuMH1wpNIk3nyc2okwCSNaODKXXpLcBOajq9nfKsZL5qxPrN0=w1915-h966-no?authuser=0",
         "id": 3,
         "description": "This application allows the users to be able to play tic-tac-toe. With a simple click you're able to mark a box with a X or O. This application is built using React.js.",
         "link": "https://github.com/FreshSilvia/tictactoeR2Happ"
@@ -25,7 +25,7 @@
     },
     {
         "name": "JS Hamburger Navbar",
-        "img": "https://lh3.googleusercontent.com/zgVyf_Ph4BjiW1uncPnITedmsl4dx41G9Qkt_knqFEeAKmCy5p9XtOzcUuXbpwldBh3or4tXPtQ_zafGfSDQuVNQNgxRKtWGOValdxx4VoT3ZqF5y9mPM8VyMXxLI4FOi7vjS8aQj9ILeqS6EuMPm2xSoU1j0wr25hTCZiXccCs1Tb8wNlMfQ-2eFP1_fgg7NcjOmeg6sm4XJTVsgQsaWCHuFo0S8sKrzsOCU4sMb4r3g2PORW5uESUaDKVtoh1_wExbhFyCMCWIIOaBSBBWsIL_Z8_UeUeH7u3HsAZx7bGlwuEHg8NAE3_UEzjkSLDSIyNGA6XDmZDYVyV8QKIuxAvvJjVf3LB3AbQUAljP9LzXrLvjyTw3iSN_gzlMdLCOvCxBBeFbPqeGThr-lGxRhnjmfPxSjIdHFVVAWeUe1rpXeRCHHZatNJpxkqKHoPUmMdfC95mM_c6Cv5yEuA2xc6_vBZM5p066AgonsHdSNR3NX3gU8shbF3p5hq-Q3-WduGBaza_N02IKCRNxE7C966XVnWEuIZD1Gnptc48ndm4i2sSGQ5RgeiS4PeMpST7mwMTTiOsywriYVwaqOpZj_hVGiVjVzPa0LCa1jHg6hZ_p_YzqmTORqC-2m1Gj9s_TqaMStfCvKA2T1OaOf854N4z7DqagFHCUt9LQ7W6yz--pqmFKjBbXkj6Ry24=w1298-h655-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3clefcZZxDhdaNfiDsV0fo5i9czT1i_kYJgqzpItZmpzJ-SQ4ofY2DLWOttD5P4HcEnV7vPHOJaZkVUDsj1FBe9-Qr_Yo-P3vm-vJ7sUrcrHPT3sxW-BnX-8s7bAD0gNhly2vJD7NrtTCPJBheU6cc=w1909-h963-no?authuser=0",
         "id": 4,
         "description": "This application has a nav bar that is able to be toggled back and forth by clicking on the hamburger icon. This application uses CSS and js that allows some functionality to be applied when clicked.",
         "link": "https://github.com/FreshSilvia/hamburger-navbar-app"
@@ -33,7 +33,7 @@
     },
     {
         "name": "React E-comm Project",
-        "img": "https://lh3.googleusercontent.com/CvsMLnGcScC42Tpvh_sPCjd7PiN6WeMDIWoB1RgzITMaqAgzdeI0sA8Dv-zNVkVuNCQf3JbxSqo9DiQWOR2xfBKjyMMVe_0j4iQNiQZQE4w2lYWrkVaXYQenBjmmF7fbXIAUAEzkGwj_gbDyY55ejodmv0sGopN4G7z2mtHZfwkJC_3k_4s346y0K8kqnzoGPy5HdaXjJV-ktxsccWpVG1a3RAjqXC0eOkse9TsQT6sNcV7gnUEAQf2p91tENFX06TOaAfpaoWWL48Zx5OvF_I7d6I5GsUlBbAgCfyFAwQQDDFRwyhbsUQGGZd4-rQCksLa_U_2qhZ99nFZcB7ErepG9Kt3QZeCbDkeaUJpU5ndlbSFir1I0WPNWvxpM0Qc4tcTS2K39wt3zFdVWuhvtjwJmlXvwSXTyCSCIvOXn3xjH1Ze4cuzcYe2BMqwAkqP6P3XHi8eC7uRUK7K54IixSmK_E0tPXace8DVGjQBBgauyYkbkkInmYEHZYM4uxG8okzUkr4vUG2qcq4R0-PNFM_6s7wgd1HAzKEwb22UykReQRYDi7Zw6x2rsznA95b1OCIhLyFrMsxJ9uzdWDBFoYq4C0_0eT8vOt1TdVO7QXb5gulSGJl8X-J9VKuu-arBqvAqjB4gXYfI5jTipUVOIgkMO2nuxVIOyW5U5A9USfueMqhKd8yUBpkGijkE=w1298-h652-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3fulA1WrqWOR8l3Om6KxBRG_87fN04hMMpfqjsKE4U7flxrNBvQhAvtJLMi3VsHmP4WGymSeO6Tv_vNmOBZyPQDTN3A4aOI2rONmRG46sFRBZM1_eNMnxbs20GldxqUWf2SyY66WAdeysNsF1K5ZM4=w1896-h951-no?authuser=0",
         "id": 5,
         "description": "This application is a remake of my Static E-comms project. This application is built using React.js, and is styled using SASS. Here on this E-comm website you are able to get a brief description of the company then, you are able to go to the products page to see what we have. These products can also be filtered and sorted that allows users to choose specific items.",
         "link": "https://garageinsomnia.netlify.app/"
@@ -41,7 +41,7 @@
     },
     {
         "name": "First E-comm Project",
-        "img": "https://lh3.googleusercontent.com/jA0Y6XREVI-5pzaEQkmEoMypPQhMwsrBx1JvLIPXDb_hVXekJDPuj3sMBvXfZfq3yUAlJXGSZNcoagMq0Uj2GUeZ6TJ5RjERVnRLTr2sK1XZ5hmWl5gvH2o1Bb9R3lWqzlBCHavnRg7YDV4Tb_K8GBkwsAMleGN6UhGOpLW5tesDQVyaG2C-TkKvtE-Kzc8Cc8oEJzwONLejEOwIeIHx_s2JgKaWrNl36558An0Fg_PUgNkRWGkDkdb1EcYWHk2GhMRhjN8F_c4v2LfFEBwPTXJ0PkoAY_oiSqctdjD4jdpPbrEXO4OkNwvk0pVZUC_RtXGEmBhErcCQJYhuN2UZttl21MmAy1l5aofRhZtwvRQaxMz674NGCuRAm4Vwe2q1c7EZiLxp_KERTR9lgb9hwc-pX-PQKnCoabenKZWIkVslprKwk2wHb8iFA4qox8_zC1__AGb1k9VIUZYXgnzr_vTDC_IdkUTdESxdEd1S_sVTKsd2FQf-ToJRk7Pubs98nK-3GgWPZirTzRGYnMjB5Z_wr8TauOHldUAY8ElXmxxGPQT5tkNNOX4Q5DMPZm98Ay2E5Fgyyr1ULchcLC4TEichuUifOLEE5qo7xcQZuWJq8RQm48cfnFwcm_8eQEtUlLAv4WlaUmD3MBa5yJs8jKtuR4eqIGSA69P8-46wqTuIFx-3EkMrGChOeUs=w1298-h659-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3eH6lUzb2hcNn_ol2KxvWF3zV2LVP7Lh8HdHHyQc4dM--eveVqszQKLlBAh-Kx4PBUlug-Jf1-SPIRmSO-tZlO7P12aOX0NjhuI_UekEN4hJBXIBPYXN9QC92Y4Ux_v8VpVdgKNE8LgIfGQ-zuATaw=w1905-h967-no?authuser=0",
         "id": 6,
         "description": "The first draft of my E-comm project. This is a static built application,  that uses standard HTML, and CSS. This website was built so that if it was run through lighthouse it would have high scores in SEO,Accessibility and Best practices.",
         "link": "https://github.com/FreshSilvia/E-comm"
@@ -49,7 +49,7 @@
     },
     {
         "name": "CLT Health Help",
-        "img": "https://lh3.googleusercontent.com/N6Pwv5cJUXwIxGhXq0j0Oh6E87hs01K4w2MT1mdZ1ojKO1I3f6fUWRWr0fwUukyrK5TP7pj-ZN2zk1scvg_VXbxEjpypvf450t5JgL1u30naUuEjWZnWMnk0u0YTr35PfuvETzVfcQ0R7i6wuy7PZoU3-l1UVlnislGQ7lIS71IfKeRqPqDITO2tjcLps8elAtu1YY048VCpTdGJotzwfnDW0lQNMeW1iF4h4wDSRMUFlu29H4IGnQf2pF40ocd9mvBfjGwXjqr00KdYEFnJXuMqXdag931KAirZIv9cuGhtsaQcgZ-jxGakNQ1JpLmoOZXOWgHsqttBM_YF0LBTvT6X6Yr6ySsiebKNmMFuuMzT-zgCs13p2LnseoTEnVJQUI6AZksKl0N4bML4QesjG_QHC6_ljgYXWcd8U45vRwDJQi6CZR0_D7rMCpJsC7-tYcE2eHIz7Z-5ihXngSDhfnuSr2RBvgyt284omt9bbjL2l7AeepUDzZkVtOnEBsf2FbTwc_-BBXlLYRlQRoLsKDNWzihN_ZDEP6nyAqVotDZS_9XUrD44DoPRIYBqZThrnp7mYuNfA_J60vdF7Npb-JoJCSHDUeRTXEea1f-HKqNLpzEKTyp1J4xjt24mc9YUVKEDLjH499ZFMDCAP85br_4doBzErsD43YM4s255txQiwFIzdLh0lXUgRc8=s500-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3cb6SeLUeNq8-yShuR1DY9Hs49B_ZHmx7D72EzKt-BTDw-6bY-75JPIXDUdAEa8K6iZOcOHRXcMfjyAHBbdAh8Y7EabY51k1LwTOn-AHDJY1HW_M_oZb70ZT7ra-UkUzHy4y2Dq_Ga-OuvVd6QDVlA=s500-no?authuser=0",
         "id": 7,
         "description": "This is a group Hackathon project where we had to build a web application that informed users of any free clinics in the Charlotte area. This application was built using HTML and CSS. In this application we used Github to collaborate as a team, and also build more knowledge on github’s use.",
         "link": "https://github.com/FreshSilvia/CLT-H-H"
@@ -57,7 +57,7 @@
     },
     {
         "name": "GarageInsomnia Reservationapp",
-        "img": "https://lh3.googleusercontent.com/FviWesJgpl9qFV5TGx4oFEdcWzWVyUJqZnRcw5CIdypz23U28X3i0sF9ARZ4oQT3kUGGvfrJiMm665B3nZW7oUa3udYaK7UxyKfo_8G7QfaSps2Y6AyvMe6Wu4J8Kfbm8JK-OoXzoBZw9X13aJ99Yi_9IgLEdjA3vbaxI79B4-hlMSYbtMURj-RvO9ehnrHtzsITBq_pnBuyavto4fs2Ph_O-b7MJpT7lyFm2ZtAtFxtLO_y6DM7SWTjxmwcg34iinXWerphKPhxnZGiL9Qojs8KZLMZ45yv-u1vwYmQbcFzkf13oRx7ApyaB2IsexadUAilL2e4kA1WTRUU_m7fxSf_RIqeAizZJEROTvLPFdmGPT-K1iikZ8Y8hyy7LTpoTqEk-wLMnNYTb-cCjeVrNGrATVn06mLavUDPLgVR968-PedSlASOMVEsJBtMh_7vM3_g8p_ghICC1Df_fJIBizRtfyN_KrCvIzdaKOhC-tmF65WZEXa-j-UR0SnJ2AazPtcLHw-mnmJFhMufeg2HthcZNBYU9k0Ha3CKcgYg6ANbwP2OQNGVhatxDNzVwWuMuKZZwOfh3QP8CCH5CXYZTqwjE7alaIBjsOU-evGruvbipyRf9q66usufhBQdr_uu-IJ5PGFiBG-APA-A0P_tC1KS-y8-huTEYUET1CUU0INDdapkxRTeL5kZm04=w763-h727-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3czKiXqN2cP3BOtEBf6frmRw2PIZm_zD3jiGJ-CpcI3cE9LqGvpX3k3BOriUqVFrmyBfmRHyHz_AwbPkDuubiYimp2DKh8uZgKP43rRr1EPb8WTgApeVFijDvC6ixhfI1vIqvHP_563dbTJxCi_IUk=w1017-h969-no?authuser=0",
         "id": 8,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus viverra adipiscing at in. Amet aliquam id diam maecenas ultricies mi eget mauris.",
         "link": "https://github.com/FreshSilvia/ReservePage"
@@ -65,7 +65,7 @@
     },
     {
         "name": "Terminal Pokemon game",
-        "img": "https://lh3.googleusercontent.com/Ae4WOUbUU-IylNWN6U4uI9nSETqHn8EZ5xAhYnK6A0MLRngiymv_n3mTAq0k3azXvmBR9UQQ0GQ7fAEeD5VaGFAmMAJDG1NpGerSxbhTWQ6ZnqizkBiumd2UuXQZS16_uTkLvES27yhkD0KlQAlzm5EmxpeSTcixOpyE2LLCf-b4upuE2IR87UKGL__S9m2PMxF-rzPNxJZpYjyjEyTZdbKLPkQUm8I0AKxyHYqdb8upcwlNztrQzfZWGEZL9zmq5Sor-A-2iZGBqQteOHYLgges8DfDQ-3dae1EV2YGJectjFNsa6pQ0LzOGQagnrYC09dkzoMJceRJgJbXISxohhOO-g5OjepHtaOlgOCx_XHEdV58ughcUdnFccbfI1osDJXvQDIDrW827TFGnC3urrfvE-aOnECm6oSa-a9c-zuluraGyd97CcUcuvfmrIYDGJMxCZnw5GiklgDjPvp8INkR0ojsQpep_Q8BVuIErhR5dfrwBtV2tvCq9vsO4YOZ1rJa8aRFS_o-OpAyCx6Gkk3RwSHeWjUalYlvmmf8K3BrMBfSOxwFJdIKb-hNKhs6cEo_RZW4u2TkgTLRLF5sRYrRdEylO1U58-HvyzqLDMe3iMxUnZCVuA04SF3_7vV752i8yxgo-EOc_HptXejgaDSZbB54iAY5AwDMP9rOMbePsfs0elYuugNTwO4=w888-h727-no?authuser=0",
+        "img": "https://lh3.googleusercontent.com/pw/ACtC-3ftHsOX8nXyFfhGn7gr_g9M6K0B9_uW6BpGe8_IhDF7X_wmxqaBmUO5bYAbBpvxnYFooU-8bv2UC84jwo-Jjxws3RMee9FPH1W94RDzW-bO5vCnK9ZVvCrDWa0JkVX1muf32Ztizue3pXR6i3bBi94=w1183-h969-no?authuser=0",
         "id": 9,
         "description": "This is a terminal project that uses node.js. When ran in the terminal it starts a pokemon mini game that allows a user to pick a pokemon and name it. It also allows the user to battle another pokemon.",
         "link": "https://github.com/FreshSilvia/pokemon-console"
